@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "title": "Article Nuxt (new)",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa officiis quae omnis quas impedit debitis! Quam pariatur est quae facere vel? Fugit dicta vero quod quo corrupti? Quam, earum! Ratione.",
+      "id": 2,
+      "vote": 0
+    },
+    {
+      "title": "PWA Is Awesome",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum ex similique consectetur sunt molestiae, voluptatem ad reprehenderit excepturi quibusdam recusandae vero aliquid distinctio omnis natus, quae animi odit mollitia? Dolorum!",
+      "id": 3,
+      "vote": 0
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "vote": 0,
+      "id": 4
+    },
+    {
+      "title": "tasa",
+      "description": "asasa",
+      "vote": 0,
+      "id": 5
+    },
+    {
+      "id": "4248108440",
+      "title": "test",
+      "description": "test",
+      "vote": 0
+    },
+    {
+      "id": "5216334762",
+      "title": "test",
+      "description": "test",
+      "vote": 0
+    },
+    {
+      "id": "1372509004",
+      "title": "gen id",
+      "description": "ters",
+      "vote": 0
+    },
+    {
+      "id": "3057175340",
+      "title": "as",
+      "description": "as",
+      "vote": 0
+    },
+    {
+      "id": "1297930926",
+      "title": "asd",
+      "description": "asd",
+      "vote": 0
+    }
+  ]
+}
